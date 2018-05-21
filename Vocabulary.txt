@@ -19,4 +19,17 @@ present 目前的adj.礼物n.提出v.
 concise 简洁的
 implementation 实施,成就n.
 compute 计算v.
+specify 指定，详述v.
+resize 调整大小v.
+border 边界n.
+sharp 锋利的
+radius 半径
+diagram 图表n.
+reference 参考n.应用v.
+exist 存在v.
+existing 现有的
+handy 方便的
+cursor 光标
+hover 盘旋,悬停v.
+
 2018/5/21
