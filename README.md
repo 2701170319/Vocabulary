@@ -20,8 +20,6 @@ https://www.youtube.com/watch?v=PE4msFl_Boo
 
 **2014年9月20日，身穿银灰色Dior的沃特森站在联合国的讲台上发表了10分钟的演讲** 。
 
-```http
 https://www.bilibili.com/video/av4238581/
-```
 
 *无论是看起来，还是听起来，都是很优秀的演讲，大赞艾玛。*
