@@ -33,3 +33,24 @@ qcloud.request({
 
 
 
+Q2：![1533353319840](C:\Users\12157\AppData\Local\Temp\1533353319840.png)
+
+```javascript
+SET @IMAGE_BASE_URL = "https://product-1256871806.cos.ap-shanghai.myqcloud.com/"; -- FOR EXAMPLE: https://*****.ap-shanghai.myqcloud.com/
+```
+
+报错渲染层网络层错误，查看数据库，发现上述代码少符号"/"所以无法访问
+
+所以导入数据库的时候整体会缺少“/”符号
+
+解决办法：需重新导入，或手动修改
+
+
+
+Q3：
+
+在pages中添加detail报错
+
+原因：前期理解不透彻（可直接在detail右键新建page即可生成js/json/wxml/wxss文件，此步过后直接在app.json中发现已经加入detail）
+
+解决方法：添加detail时确保在app.json也已经添加
