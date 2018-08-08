@@ -54,3 +54,30 @@ Q3：
 原因：前期理解不透彻（可直接在detail右键新建page即可生成js/json/wxml/wxss文件，此步过后直接在app.json中发现已经加入detail）
 
 解决方法：添加detail时确保在app.json也已经添加
+
+
+
+Q4：
+
+出现thirdScriError错误
+
+![1533604881847](C:\Users\12157\AppData\Local\Temp\1533604881847.png)
+
+错误代码：user.js中
+
+```javascript
+
+onTapAddress() {
+  
+} //错误为少加逗号
+
+  /**
+   * 生命周期函数--监听页面加载
+   */
+  onLoad: function (options) {
+  
+  },
+
+```
+
+原因：少加逗号
